@@ -12,7 +12,7 @@ namespace EXEMPLOSFUNDAMENTOS.models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Olá meu nome é {Nome}, e tenho {Idade} anos");
+            Console.WriteLine($"Olá meu nome é {Nome} e tenho {Idade} anos");
             
         }
     }
